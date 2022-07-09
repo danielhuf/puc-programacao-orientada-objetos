@@ -1,0 +1,38 @@
+godMode_1
+nJogadores_3
+jogadorDaVez_1
+nomes_Player1_Player2_Josefo
+saldos_3820_3850_4000
+posicoes_14_25_10
+prisao_0_0_1
+saidaLivre_0_0_0
+falido_0_0_0
+repeticoesJogada_0_1_0
+propriedade_Leblon_null_0_0
+propriedade_Av. Presidente Vargas_null_0_0
+propriedade_Av. Nossa S. de Copacabana_null_0_0
+propriedade_Companhia Ferroviária_null
+propriedade_Av. Brig. Faria Lima_null_0_0
+propriedade_Companhia de Viação_null
+propriedade_Av. Rebouças_null_0_0
+propriedade_Av. 9 de julho_null_0_0
+propriedade_Av. Europa_null_0_0
+propriedade_Rua Augusta_null_0_0
+propriedade_Av. Pacaembú_Player1_4_1
+propriedade_Companhia de Táxi_null
+propriedade_Interlagos_null_0_0
+propriedade_Morumbi_null_0_0
+propriedade_Flamengo_null_0_0
+propriedade_Botafogo_null_0_0
+propriedade_Companhia de Navegação_Player2
+propriedade_Av. Brasil_null_0_0
+propriedade_Av. Paulista_null_0_0
+propriedade_Jardim Europa_null_0_0
+propriedade_Copacabana_null_0_0
+propriedade_Companhia de Aviação_null
+propriedade_Av. Vieira Souto_null_0_0
+propriedade_Av. Atlântica_null_0_0
+propriedade_Companhia de Táxi Aéreo_null
+propriedade_Ipanema_null_0_0
+propriedade_Jardim Paulista_null_0_0
+propriedade_Brooklin_null_0_0

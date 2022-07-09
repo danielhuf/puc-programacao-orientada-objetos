@@ -1,0 +1,21 @@
+- GitHubs
+https://github.com/Leinadium/puc-blackjack-poo/tree/main/src
+https://github.com/Krlier/Puc-Rio/tree/master/inf1636
+https://github.com/marciosn/BANCO-IMOBILIARIO
+
+- JavaDoc
+https://pt.wikipedia.org/wiki/Javadoc
+https://pt.stackoverflow.com/questions/6733/para-que-serve-o-c%C3%B3digo-na-linguagem-java
+
+- Imagens no Java
+https://www.javatpoint.com/how-to-change-titlebar-icon-in-java-awt-swing
+https://stackoverflow.com/questions/12020597/java-convert-image-to-icon-imageicon
+https://docs.oracle.com/javase/tutorial/2d/images/drawimage.html
+https://www.google.com/search?q=java+eclipse+add+image+file+to+project&oq=java+eclipse+put+ima&aqs=chrome.2.69i57j0i22i30l2.9169j0j7&sourceid=chrome&ie=UTF-8#kpvalbx=_0z-IYsiSMuD31sQPt8KIqAc18
+
+- JLabel
+https://www.javatpoint.com/java-jlabel
+
+- Layouts
+https://docs.oracle.com/javase/tutorial/uiswing/layout/groupExample.html
+https://docs.oracle.com/javase/tutorial/uiswing/layout/group.html

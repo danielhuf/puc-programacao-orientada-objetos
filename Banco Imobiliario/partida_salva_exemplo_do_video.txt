@@ -1,0 +1,38 @@
+godMode_1
+nJogadores_4
+jogadorDaVez_0
+nomes_Player1_Player2_Player3_Player4
+saldos_10_0_0_4640
+posicoes_3_10_10_21
+prisao_0_1_1_0
+saidaLivre_0_0_0_0
+falido_0_1_1_0
+repeticoesJogada_1_0_0_0
+propriedade_Leblon_null_0_0
+propriedade_Av. Presidente Vargas_Player4_2_1
+propriedade_Av. Nossa S. de Copacabana_null_0_0
+propriedade_Companhia Ferroviária_Player1
+propriedade_Av. Brig. Faria Lima_null_0_0
+propriedade_Companhia de Viação_null
+propriedade_Av. Rebouças_null_0_0
+propriedade_Av. 9 de julho_null_0_0
+propriedade_Av. Europa_null_0_0
+propriedade_Rua Augusta_null_0_0
+propriedade_Av. Pacaembú_null_0_0
+propriedade_Companhia de Táxi_null
+propriedade_Interlagos_null_0_0
+propriedade_Morumbi_null_0_0
+propriedade_Flamengo_null_0_0
+propriedade_Botafogo_null_0_0
+propriedade_Companhia de Navegação_null
+propriedade_Av. Brasil_null_0_0
+propriedade_Av. Paulista_null_0_0
+propriedade_Jardim Europa_null_0_0
+propriedade_Copacabana_null_0_0
+propriedade_Companhia de Aviação_null
+propriedade_Av. Vieira Souto_null_0_0
+propriedade_Av. Atlântica_null_0_0
+propriedade_Companhia de Táxi Aéreo_null
+propriedade_Ipanema_null_0_0
+propriedade_Jardim Paulista_null_0_0
+propriedade_Brooklin_null_0_0
